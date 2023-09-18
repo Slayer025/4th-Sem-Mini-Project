@@ -1,0 +1,56 @@
+/* body background */
+body {
+    background-color: #0077cc;
+  }
+  
+  /* login container */
+  .login-container {
+    margin: 10% auto;
+    max-width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.5);
+  }
+  
+  /* login form */
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-form input[type="text"], .login-form input[type="password"] {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .login-form input[type="submit"] {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #0077cc;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* register button */
+  .register-button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #fff;
+    color: #0077cc;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  

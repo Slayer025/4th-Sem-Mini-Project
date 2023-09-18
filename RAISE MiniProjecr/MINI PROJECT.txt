@@ -1,0 +1,31 @@
+for admin 
+- admin page
+- home page 
+- notice 
+- grievance
+- message/chat 
+- roles 
+- settings
+
+for hod / admin / higer roles 
+- home page (only for admin and hod/assigned roles) 
+  [home page will list all teachers]
+- notice
+- grievance
+- message/chat
+- settings
+
+
+
+for teachers dashboard 
+- profile 
+- activities
+-> course -> self , institutional 
+- notice
+- grievance
+- message/chat
+- settings 
+ 
+
+
+
